@@ -1,7 +1,11 @@
 
+fork原仓库地址：https://github.com/twj0/baidutieba_auto-checkin
+
+为了避免60天时效限制，下载后上传到自己仓库
+
 # 百度贴吧自动签到脚本 (Baidu Tieba Auto check-in)
 
-[![Baidu Tieba Check-in](https://github.com/twj0/baidutieba_auto-checkin/actions/workflows/main.yml/badge.svg)](https://github.com/twj0/baidutieba_auto-checkin/actions/workflows/main.yml)
+[![Baidu Tieba Check-in](https://github.com/tanrongfu/baidutieba/actions/workflows/main.yml/badge.svg)](https://github.com/tanrongfu/baidutieba/actions/workflows/main.yml)
 
 这是一个利用 **GitHub Actions** 实现的百度贴吧全自动签到脚本，可以帮助你每天自动完成所有关注贴吧的签到任务，无需自己动手或部署服务器。
 
